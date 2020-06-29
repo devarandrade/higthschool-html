@@ -1,3 +1,15 @@
 #img{
     
 }
+#menu{
+    background: #c5c5b2;
+    border: whitesmoke 2px;
+    padding: 16px;
+    width: 200px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
