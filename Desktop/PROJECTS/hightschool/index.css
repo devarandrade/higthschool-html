@@ -3,6 +3,8 @@ body{
 }
 .img{
     background:#c5c5b2 ;
+    position: absolute;
+    
 }
 #menu{
     background: #c5c5b2;
